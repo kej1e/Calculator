@@ -1,1 +1,3 @@
 # calculator
+
+This project is a simple, responsive calculator web app built with HTML, CSS, and JavaScript. It features a clean user interface with support for both dark and light themes, which can be toggled using the theme button. The calculator supports basic arithmetic operations (addition, subtraction, multiplication, division, and decimals) and can be operated using both mouse clicks and keyboard input. The design is mobile-friendly and uses modern CSS for smooth transitions between themes. The project demonstrates DOM manipulation, event handling, and dynamic stylesheet switching in JavaScript.
